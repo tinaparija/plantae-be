@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon server.js"
   },
   "author": "tina parija",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tinaparija/plantae-be/issues"
   },
-  "homepage": "https://github.com/tinaparija/plantae-be",
   "dependencies": {
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.3",
