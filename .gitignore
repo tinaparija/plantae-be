@@ -1,2 +1,3 @@
-**/node_modules
-**/controllers/messageController.js
+/node_modules
+
+/controllers/messageController.js
